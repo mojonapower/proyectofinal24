@@ -1,5 +1,12 @@
 import React from "react";
 
-function Form() {
-  return <>Hola</>;
-}
+const Login = () => {
+  return (
+    <>
+      Hola
+      <h1>Hola Mundo</h1>
+    </>
+  );
+};
+
+export default Login;
